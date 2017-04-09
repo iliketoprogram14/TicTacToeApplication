@@ -22,3 +22,23 @@ How to run the application:
  - Double click the .jar file to start up the application
 
 ## Screenshots ##
+
+#### Custom game ####
+
+![Custom game](assets/customgame.png "Custom game")
+
+#### About window ####
+
+![About window](assets/info.png "About window")
+
+#### Playing example ####
+
+![Playing example](assets/playing.png "Playing example")
+
+#### Tie game ####
+
+![Tie game](assets/tiegame.png "Tie game")
+
+#### X wins ####
+
+![X wins](assets/xwins.png "X wins")
