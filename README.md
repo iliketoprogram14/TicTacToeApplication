@@ -21,6 +21,10 @@ How to run the application:
  - Unzip the .rar file and navigate into the unzipped folder.
  - Double click the .jar file to start up the application
 
+## Documentation ##
+
+Formal documentation around the classes is stored in the doc folder and can be viewed online [here](https://iliketoprogram14.github.io/TicTacToeApplication/).
+
 ## Screenshots ##
 
 #### Custom game ####
